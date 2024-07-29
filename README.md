@@ -1,2 +1,2 @@
 # AHC_TEMPLATE
-Atcoder Heuristic Contest用のテンプレート用のリポジトリです
+Atcoder Heuristic Contest用のテンプレート用のリポジトリ
